@@ -1,4 +1,4 @@
-# NodeTS-Scaffolding[BE]
+# NodeTS-Scaffolding
 
 Este repositorio contiene un backend implementado en Node.js con TypeScript. El objetivo principal es proporcionar un punto de partida para proyectos Node.js basados en TypeScript, con configuraciones comunes y algunas dependencias útiles.
 
@@ -20,7 +20,7 @@ Asegúrate de tener Node.js y yarn instalados en tu sistema.
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd NodeTS-Scaffolding-BE
+    cd NodeTS-Scaffolding
     ```
 
 3. Instala las dependencias:
