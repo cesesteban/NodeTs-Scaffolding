@@ -15,7 +15,7 @@ Asegúrate de tener Node.js y yarn instalados en tu sistema.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/cesesteban/NodeTS-Scaffolding-BE.git
+   git clone https://github.com/cesesteban/NodeTs-Scaffolding.git
 
 2. Navega al directorio del proyecto:
 
