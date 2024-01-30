@@ -29,9 +29,11 @@ Asegúrate de tener Node.js y yarn instalados en tu sistema.
     yarn install
     ```
 
-3. Configura las variables de entorno:
+4. Configura las variables de entorno:
 
-Crea un archivo .env en la raíz del proyecto basado en el archivo .env.example proporcionado.
+    ```bash
+    Crea un archivo .env en la raíz del proyecto basado en el archivo .env.example proporcionado.
+    ```
 
 ## Scripts
 
