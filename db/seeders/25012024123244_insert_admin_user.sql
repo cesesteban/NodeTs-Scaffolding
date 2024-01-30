@@ -1,0 +1,1 @@
+INSERT INTO `users` (`username`, `password`, `first_name`, `last_name`, `email`, `role_id`, `country_id`, `is_active`) VALUES ('admin_test', '1234', 'admin', 'test', 'admin.test@test.com', '3', '1', '1');
