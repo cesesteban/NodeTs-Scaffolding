@@ -7,6 +7,7 @@ Este repositorio contiene un backend implementado en Node.js con TypeScript. El 
 - Node.js (v14.x o superior)
 - yarn (v1.22.x o superior)
 - MySQL (o cualquier otra base de datos compatible)
+- Prettier
 
 ## Instalación
 
